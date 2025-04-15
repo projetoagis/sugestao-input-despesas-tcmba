@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Validador de CPF/CNPJ</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <label for="documento">CPF ou CNPJ:</label>
+    <input 
+      type="text" 
+      id="documento" 
+      class="form-control input-sm" 
+      name="favorecido" 
+      placeholder="Digite o CPF ou CNPJ"
+      maxlength="18"
+    >
+    <button class="btn" id="btn-consultar">Consultar</button>
+    <div id="mensagem"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
