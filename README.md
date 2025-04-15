@@ -8,6 +8,9 @@ Embora exista uma mensagem indicando que os documentos devem ser digitados sem p
 
 **2** - Depende totalmente da atenção do usuário ao digitar corretamente os números, o que é propenso a erros humanos.
 
+![image](https://github.com/user-attachments/assets/60a8b7d3-ff93-4912-aaf6-2ba66843c2bf)
+
+
 **Por que isso é problemático?**
 
 O cidadão pode colar o CPF/CNPJ de uma fonte externa (PDF, planilha, email etc.) já com pontuação ou errado(dependendo da digitalização do PDF por ex- PP-ETCM) e obter
